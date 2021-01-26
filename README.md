@@ -9,7 +9,7 @@ REST API that provides data to the app that enables adding/ removing or editing 
 
 # Installation
 ```
-Copy the clone command: git clone https://github.com/MPuzio15/shelter.git
+Copy the clone command: git clone https://github.com/MPuzio15/CapsuleLife.git
 ```
 ```
 From a terminal window, go to the local directory where you want to clone your repository.
