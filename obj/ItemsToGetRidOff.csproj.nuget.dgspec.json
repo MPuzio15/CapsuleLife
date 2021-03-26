@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48786\\Desktop\\GetRidOff\\ItemsToGetRidOff\\ItemsToGetRidOff.csproj": {}
+    "C:\\Users\\48786\\Desktop\\IT\\c#\\backend_capsule_life\\CapsuleLife\\ItemsToGetRidOff.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48786\\Desktop\\GetRidOff\\ItemsToGetRidOff\\ItemsToGetRidOff.csproj": {
+    "C:\\Users\\48786\\Desktop\\IT\\c#\\backend_capsule_life\\CapsuleLife\\ItemsToGetRidOff.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48786\\Desktop\\GetRidOff\\ItemsToGetRidOff\\ItemsToGetRidOff.csproj",
+        "projectUniqueName": "C:\\Users\\48786\\Desktop\\IT\\c#\\backend_capsule_life\\CapsuleLife\\ItemsToGetRidOff.csproj",
         "projectName": "ItemsToGetRidOff",
-        "projectPath": "C:\\Users\\48786\\Desktop\\GetRidOff\\ItemsToGetRidOff\\ItemsToGetRidOff.csproj",
+        "projectPath": "C:\\Users\\48786\\Desktop\\IT\\c#\\backend_capsule_life\\CapsuleLife\\ItemsToGetRidOff.csproj",
         "packagesPath": "C:\\Users\\48786\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48786\\Desktop\\GetRidOff\\ItemsToGetRidOff\\obj\\",
+        "outputPath": "C:\\Users\\48786\\Desktop\\IT\\c#\\backend_capsule_life\\CapsuleLife\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -45,6 +45,14 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[*, )"
             },
             "Microsoft.AspNetCore.JsonPatch": {
               "target": "Package",
